@@ -1,0 +1,30 @@
+.name {
+    text-align: center;
+    font-size: bold;
+    color: rgb(21, 2, 56);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.image {
+    text-align: center;
+    padding: 20px;
+
+}
+
+p {
+    font-size: 20px;
+}
+.btn{
+    display: flex;
+    padding: 12px;
+    border-radius:5px; 
+    font-size: 1rem;
+    letter-spacing: 1px;
+   
+
+}
+.btn:hover{
+    transform: scale(0.9);
+    background-color: aqua;
+}
